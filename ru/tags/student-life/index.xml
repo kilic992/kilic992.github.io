@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Life | </title>
+    <link>https://kilic992.github.io/ru/tags/student-life/</link>
+      <atom:link href="https://kilic992.github.io/ru/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Life</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kilic992.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Student Life</title>
+      <link>https://kilic992.github.io/ru/tags/student-life/</link>
+    </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://kilic992.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://kilic992.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя в университете была продуктивной и насыщенной. Я продолжил изучать основы компьютерных наук, работать над учебными задачами и развивать навыки программирования.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; мы разбирали новые темы, связанные с алгоритмами и логикой построения программ. Я попробовал решить несколько задач самостоятельно и лучше понял структуру кода.&lt;/li&gt;
+&lt;li&gt;🧠 На лекциях по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; мы изучали способы оптимизации решений и различные подходы к решению задач. Это помогло мне лучше понять, как создавать более эффективные программы.&lt;/li&gt;
+&lt;li&gt;🌐 Также обсуждали основы &lt;strong&gt;компьютерных сетей&lt;/strong&gt; и принципы передачи данных в современных информационных системах.&lt;/li&gt;
+&lt;li&gt;🧪 Работал над учебными заданиями и небольшими практическими проектами, чтобы закрепить теоретические знания на практике.&lt;/li&gt;
+&lt;li&gt;📚 В свободное время изучал дополнительные материалы по &lt;strong&gt;искусственному интеллекту и машинному обучению&lt;/strong&gt;, так как это одно из направлений, которое мне особенно интересно.&lt;/li&gt;
+&lt;li&gt;🚶‍♂️ Постарался уделить время отдыху и прогулкам, чтобы сохранить баланс между учебой и личным временем.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая учебная неделя помогает мне постепенно развивать навыки в области программирования и компьютерных наук. Я стараюсь использовать каждую возможность, чтобы узнавать что-то новое и становиться лучше в своей будущей профессии.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://kilic992.github.io/ru/publications/</link>
+      <atom:link href="https://kilic992.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kilic992.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Publications</title>
+      <link>https://kilic992.github.io/ru/publications/</link>
+    </image>
+    
+    <item>
+      <title>GitHub в учебе программиста</title>
+      <link>https://kilic992.github.io/ru/publications/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://kilic992.github.io/ru/publications/01/</guid>
+      <description>&lt;h1 id=&#34;-github-в-учебе-программиста&#34;&gt;💻 GitHub в учебе программиста&lt;/h1&gt;
+&lt;p&gt;На этой неделе я начал активно использовать &lt;strong&gt;GitHub&lt;/strong&gt; для хранения и управления своими учебными проектами. Для студентов компьютерных наук это один из самых важных инструментов, потому что он помогает организовывать код, отслеживать изменения и работать над проектами более эффективно.&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-github&#34;&gt;📂 Что такое GitHub&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — это платформа для хранения и совместной разработки программного кода. Она основана на системе контроля версий &lt;strong&gt;Git&lt;/strong&gt;, которая позволяет отслеживать изменения в проектах и возвращаться к предыдущим версиям кода.&lt;/p&gt;
+&lt;p&gt;GitHub широко используется разработчиками по всему миру, а также в учебных проектах университетов.&lt;/p&gt;
+&lt;h2 id=&#34;-что-я-сделал-на-этой-неделе&#34;&gt;⚙️ Что я сделал на этой неделе&lt;/h2&gt;
+&lt;p&gt;За эту неделю я сделал несколько важных шагов:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📁 Создал свой первый &lt;strong&gt;репозиторий&lt;/strong&gt; для хранения учебных проектов&lt;/li&gt;
+&lt;li&gt;💻 Загрузил туда небольшие программы, написанные во время практики&lt;/li&gt;
+&lt;li&gt;🔄 Научился делать &lt;strong&gt;commit&lt;/strong&gt; и отслеживать изменения в коде&lt;/li&gt;
+&lt;li&gt;🌐 Опубликовал проекты, чтобы они были доступны онлайн&lt;/li&gt;
+&lt;li&gt;📚 Изучил основы работы с &lt;strong&gt;Git&lt;/strong&gt; через командную строку&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-github-важен-для-программиста&#34;&gt;🚀 Почему GitHub важен для программиста&lt;/h2&gt;
+&lt;p&gt;Использование GitHub дает много преимуществ:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;позволяет хранить код в безопасном месте&lt;/li&gt;
+&lt;li&gt;помогает отслеживать изменения в проекте&lt;/li&gt;
+&lt;li&gt;облегчает совместную работу с другими разработчиками&lt;/li&gt;
+&lt;li&gt;помогает создавать &lt;strong&gt;портфолио программиста&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Многие компании обращают внимание на GitHub при приеме на работу, поэтому важно начинать работать с ним уже во время учебы.&lt;/p&gt;
+&lt;h2 id=&#34;-мои-дальнейшие-планы&#34;&gt;📈 Мои дальнейшие планы&lt;/h2&gt;
+&lt;p&gt;В ближайшее время я хочу:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;загрузить больше учебных проектов&lt;/li&gt;
+&lt;li&gt;изучить &lt;strong&gt;ветвление (branches)&lt;/strong&gt; и &lt;strong&gt;pull requests&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;начать участвовать в небольших &lt;strong&gt;open-source проектах&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;улучшить структуру своих репозиториев&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GitHub — это не просто хранилище кода, а важный инструмент для развития программиста и построения профессионального портфолио.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
