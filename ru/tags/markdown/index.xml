@@ -5,12 +5,34 @@
     <link>https://kilic992.github.io/ru/tags/markdown/</link>
       <atom:link href="https://kilic992.github.io/ru/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kilic992.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Markdown</title>
       <link>https://kilic992.github.io/ru/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://kilic992.github.io/ru/publications/02/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://kilic992.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-язык-разметки-markdown&#34;&gt;📝 Язык разметки Markdown&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомился с языком разметки &lt;strong&gt;Markdown&lt;/strong&gt;, который широко используется для оформления текстов в удобном и читаемом виде.&lt;/p&gt;
+&lt;p&gt;Markdown оказался простым и интуитивно понятным инструментом, позволяющим быстро форматировать текст без сложных редакторов.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ Изучил основы синтаксиса: заголовки, списки, выделение текста (&lt;strong&gt;жирный&lt;/strong&gt;, &lt;em&gt;курсив&lt;/em&gt;), а также вставку ссылок и изображений.&lt;/li&gt;
+&lt;li&gt;📄 Научился структурировать документы с помощью заголовков и подзаголовков, что делает текст более удобным для чтения.&lt;/li&gt;
+&lt;li&gt;💻 Попробовал использовать Markdown для оформления заметок и учебных материалов — это оказалось намного быстрее, чем в обычных текстовых редакторах.&lt;/li&gt;
+&lt;li&gt;🔗 Освоил добавление ссылок и кода, что особенно полезно при написании технической документации.&lt;/li&gt;
+&lt;li&gt;🧩 Узнал, что Markdown активно применяется на таких платформах, как GitHub, и является стандартом для README-файлов.&lt;/li&gt;
+&lt;li&gt;🚀 Понял, что этот язык отлично подходит для ведения конспектов, блогов и документации.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Markdown помогает сосредоточиться на содержании, а не на оформлении. Благодаря своей простоте он стал для меня удобным инструментом для учебы и работы.&lt;/p&gt;
+&lt;p&gt;В дальнейшем планирую использовать его для ведения заметок и оформления проектов.&lt;/p&gt;
+&lt;p&gt;А вы используете Markdown? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pandas</title>
