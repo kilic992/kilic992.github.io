@@ -5,7 +5,7 @@
     <link>https://kilic992.github.io/ru/tags/hugo/</link>
       <atom:link href="https://kilic992.github.io/ru/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kilic992.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Hugo</title>
@@ -13,27 +13,26 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://kilic992.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://kilic992.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://kilic992.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://kilic992.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://kilic992.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://kilic992.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://kilic992.github.io/ru/projects/hugo/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://kilic992.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт становится важной частью профессионального профиля научного работника. На этой неделе я изучал возможности создания такого сайта с помощью фреймворка Hugo и темы Academic.&lt;/p&gt;
+&lt;p&gt;Hugo — это генератор статических сайтов, который позволяет быстро создавать удобные и производительные веб-ресурсы. Тема Academic (также известная как Wowchemy) специально разработана для учёных, преподавателей и студентов.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;Простота настройки&lt;/strong&gt; — сайт можно развернуть за короткое время, используя готовые шаблоны и конфигурационные файлы.&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Гибкая структура&lt;/strong&gt; — легко добавлять разделы: публикации, проекты, резюме, курсы и блог.&lt;/li&gt;
+&lt;li&gt;📝 &lt;strong&gt;Поддержка Markdown&lt;/strong&gt; — позволяет быстро оформлять контент без сложной верстки.&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Адаптивный дизайн&lt;/strong&gt; — сайт корректно отображается на разных устройствах.&lt;/li&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Высокая производительность&lt;/strong&gt; — благодаря статической генерации страницы загружаются быстро.&lt;/li&gt;
+&lt;li&gt;🔗 &lt;strong&gt;Интеграции&lt;/strong&gt; — можно подключать Google Scholar, ORCID, GitHub и другие сервисы.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В процессе работы я разобрался с базовой структурой проекта, конфигурацией и добавлением контента. Особенно удобной оказалась система публикаций и автоматическое формирование страниц.&lt;/p&gt;
+&lt;p&gt;Создание такого сайта помогает структурировать научную деятельность и сделать её более доступной для коллег и работодателей. Это также отличный способ представить свои достижения и проекты в одном месте.&lt;/p&gt;
+&lt;p&gt;В дальнейшем планирую доработать дизайн и добавить больше материалов.&lt;/p&gt;
+&lt;p&gt;А есть ли у вас персональный сайт? 😊&lt;/p&gt;
+</description>
     </item>
     
   </channel>
